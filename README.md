@@ -1,4 +1,4 @@
-# Can indicators of heart disease indicatate diabetes?
+# Can indicators of heart disease indicate diabetes?
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artifical Intelligence) which focuses on using indicators of heart disease and seeing if they are able to detect diabetes as well.
 
