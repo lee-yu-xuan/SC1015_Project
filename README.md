@@ -1,6 +1,6 @@
-# Can indiciators of heart disease indicatate diabetes?
+# Can indicators of heart disease indicatate diabetes?
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artifical Intelligence) which focuses on using indictators of heart disease and seeing if they are able to detect diabetes as well.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artifical Intelligence) which focuses on using indicators of heart disease and seeing if they are able to detect diabetes as well.
 
 ## Contributors
 * Lee Yu Xuan - Data Extration, Random Forest 
@@ -15,7 +15,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artifical In
 * Random Forest
 
 ## Conclusion
-* Indictators of Heart Disease can be used to detect Diabetes.
+* Indicators of Heart Disease can be used to detect Diabetes.
 * However, it should not be solely relied on to detect Diabetes.
 * A Diabetes Detection test can use these variables to help detect but it should be used hand in hand with other variables
 * BMI had the highest accuracy in detecting Diabetes, followed by Age Catergory and Difficulty Walking
