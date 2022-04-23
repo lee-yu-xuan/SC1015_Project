@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artifical In
 * Ng Teng Hian - Data Extraction , Classification Tree, Random Forest
 
 ## Problem Definition
-* Are we able to use indictators of Heart Disease to detect Diabetes?
+* Are we able to use indicators of Heart Disease to detect Diabetes?
 
 ## Models Used
 * Classification Tree
